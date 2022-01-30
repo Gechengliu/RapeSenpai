@@ -348,11 +348,11 @@
             return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
         }
         SubmitResults();
-        if (score <= 49) return '逊呐';
-        if (score <= 99) return '哼哼哼';
-        if (score <= 149) return '你是一个一个一个';
-        if (score <= 199) return '哼哼哼啊啊啊啊啊';
-        return '都撅烂了罢（恼';
+        if (score <= 49) return '过于无能';
+        if (score <= 99) return '免礼进身';
+        if (score <= 149) return '多日不见您想小人吗';
+        if (score <= 199) return '响啊，很响啊';
+        return '老爷，你下面的胡子都白了（掘得过快导致白热化）';
     }
 
     w.toStr = function(obj) {
@@ -446,5 +446,5 @@
         gameTapEvent(fakeEvent);
     }
 
-    console.log("不修改，好嘛？乱传又有什么用呢？(ˉ▽ˉ；)...");
+    console.log("大清机密档案泄露");
 }) (window);
