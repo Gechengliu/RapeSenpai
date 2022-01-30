@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gechengliu.github.io/Wangye/"><img src="https://wangye.github.io/RapeSenpai/index.html" width="100" height="100" alt="RapeSenpai"></a>
+  <a href="https://gechengliu.github.io/Wangye/"><img src="https://wangye.github.io/RapeSenpai/index.html" width="100" height="100" alt="Wangye"></a>
 </p>
 <div align="center">
 
